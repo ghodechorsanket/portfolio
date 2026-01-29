@@ -10,7 +10,6 @@ It showcases my skills, experience, projects, education, and contact details.
 ## Live Website
 https://ghodechorsanket.github.io/portfolio/
 
-## Screenshot
 ## Screenshots
 ![Portfolio Screenshot 1](portfolio-screenshot1.png)
 
