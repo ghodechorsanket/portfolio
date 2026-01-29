@@ -11,7 +11,11 @@ It showcases my skills, experience, projects, education, and contact details.
 https://ghodechorsanket.github.io/portfolio/
 
 ## Screenshot
-![Portfolio Screenshot](portfolio-screenshot1.png)(portfolio-screenshot.png)
+## Screenshots
+![Portfolio Screenshot 1](portfolio-screenshot1.png)
+
+![Portfolio Screenshot 2](portfolio-screenshot.png)
+
 
 ## How to Run
 1. Clone or download this repository
